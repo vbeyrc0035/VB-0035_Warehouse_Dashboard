@@ -15,7 +15,7 @@ $(document).ready(function () {
 });
 
 function refreshItems() {
-    var url = "https://spreadsheets.google.com/feeds/list/1nXS8Yt_g43kDDVGP4A8GmCnC32Mz_tguSjljr2f4A3Y/1/public/full?alt=json"
+    var url = "https://spreadsheets.google.com/feeds/list/1gqAmKsjCGLHpCGi9Id-vDyNTD0KJ7OWlyGCshMgIk80/5/public/full?alt=json"
     var graph_arr = [
         ['Order ID', 'Time Taken', {
             role: 'style'
